@@ -1,4 +1,7 @@
 
+
+// opetellaan saamaan audio inputteja
+
 float angle = 50;
 float angleVel = 0.001;
 
