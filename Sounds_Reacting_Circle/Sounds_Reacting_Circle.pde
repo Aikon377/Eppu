@@ -16,7 +16,7 @@ int myAudioRange = 101;
 int myAudioMax = 100;
 
 float myAudioAmp = 40.0;    //******
-float myAudioIndex = 0.2;                // kaikki tässä variaabeleja että nähdään spectrumi
+float myAudioIndex = 0.2;                
 float myAudioIndexAmp = myAudioIndex;
 float myAudioIndexStep = 0.35;    //****
 
